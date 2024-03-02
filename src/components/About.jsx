@@ -43,7 +43,7 @@ const AboutUs = () => {
             <p className='text-muted fw-500 mb-0'>Email:</p>
             <p className='text-4 fw-600 mb-0'>
               <a className='link-dark' href='mailto:chat@callum.com'>
-                jrbarmola@gmai.com
+                jrbarmola@gmail.com
               </a>
             </p>
           </div>
